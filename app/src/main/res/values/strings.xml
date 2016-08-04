@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fusers</string>
+    <string name="add_fuser">Add Fuser</string>
+    <string name="name_hint">Name</string>
+    <string name="team_hint">Team</string>
+
+    <string name="name">Name</string>
+    <string name="team">Team</string>
+
+    <string name="read_required">Read Permission Required</string>
+    <string name="app_requires_read_storage">The app needs the Read External Storage permission to load images.</string>
+    <string name="enable">Enable</string>
+</resources>
