@@ -19,7 +19,7 @@ class ViewFuserActivity : AppCompatActivity()
 		super.onCreate(savedInstanceState)
 		setContentView(R.layout.activity_view_fuser)
 
-		_image = findViewById(R.id.image) as ImageView
+		_image = findViewById(R.id.headshot) as ImageView
 		_name = findViewById(R.id.name) as TextView
 		_team = findViewById(R.id.team) as TextView
 	}

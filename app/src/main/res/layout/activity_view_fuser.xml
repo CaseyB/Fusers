@@ -8,7 +8,7 @@
     tools:context="com.cardinalhealth.fusers.activities.ViewFuserActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/headshot"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
